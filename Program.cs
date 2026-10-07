@@ -11,6 +11,7 @@ namespace liste_2026_FilipPetrovic
         static void Main(string[] args)
         {
             Console.WriteLine("pozdrav");
+            Console.WriteLine("kec za gubljenje vremena");
         }
     }
 }
